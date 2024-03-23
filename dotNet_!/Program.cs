@@ -7,7 +7,7 @@ class Program
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello");
         for(int i = 0; i < 3; i++){
-            
+            Console.WriteLine("i= " + i);
         }
     }
 }
