@@ -12,3 +12,7 @@ class Program
         }
     }
 }
+
+static double calcAverage(){
+    return 1;
+}
